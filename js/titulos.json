@@ -1,0 +1,478 @@
+[
+  {
+    "num": 1,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1933,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 2,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1935,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 3,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1936,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 4,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1937,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 5,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1940,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 6,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1941,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 7,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1943,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 8,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1946,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 9,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1947,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 10,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1950,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 11,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1952,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 12,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1954,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 13,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1955,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 14,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1957,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 15,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1968,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 16,
+    "nombre": "Liga Regional de Futbol Argentino",
+    "año": 1968,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Campeonato_Regional_Sur_%28adjusted%29.png"
+  },
+  {
+    "num": 17,
+    "nombre": "Liga Regional de Futbol Argentino",
+    "año": 1971,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Campeonato_Regional_Sur_%28adjusted%29.png"
+  },
+  {
+    "num": 18,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1972,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 19,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1973,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 20,
+    "nombre": "Liga Regional de Futbol Argentino",
+    "año": 1974,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Campeonato_Regional_Sur_%28adjusted%29.png"
+  },
+  {
+    "num": 21,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1974,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 22,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1976,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 23,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1976,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 24,
+    "nombre": "Copa Libertadores",
+    "año": 1976,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png"
+  },
+  {
+    "num": 25,
+    "nombre": "Copa Intercontinental",
+    "año": 1976,
+    "categoria": "Mundial",
+    "img": "https://lh5.googleusercontent.com/proxy/QL68Rkazr5TvyO2RRxs2z_GxVcp8zFkv5ptmoWJUM87zY0M3QXFibst9gjyij3E-9PVVIwiUPSbx9URqOYw4sOokSepO7-Gd1rxMSw5hV3JsrEJqdxuYEGprr4RtRwI"
+  },
+  {
+    "num": 26,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1977,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 27,
+    "nombre": "Copa Libertadores",
+    "año": 1977,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png"
+  },
+  {
+    "num": 28,
+    "nombre": "Copa Intercontinental",
+    "año": 1977,
+    "categoria": "Mundial",
+    "img": "https://lh5.googleusercontent.com/proxy/QL68Rkazr5TvyO2RRxs2z_GxVcp8zFkv5ptmoWJUM87zY0M3QXFibst9gjyij3E-9PVVIwiUPSbx9URqOYw4sOokSepO7-Gd1rxMSw5hV3JsrEJqdxuYEGprr4RtRwI"
+  },
+  {
+    "num": 29,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1978,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 30,
+    "nombre": "Copa Libertadores",
+    "año": 1978,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png"
+  },
+  {
+    "num": 31,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1979,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 32,
+    "nombre": "Copa Libertadores",
+    "año": 1979,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png"
+  },
+  {
+    "num": 33,
+    "nombre": "Copa Intercontinental",
+    "año": 1979,
+    "categoria": "Mundial",
+    "img": "https://lh5.googleusercontent.com/proxy/QL68Rkazr5TvyO2RRxs2z_GxVcp8zFkv5ptmoWJUM87zY0M3QXFibst9gjyij3E-9PVVIwiUPSbx9URqOYw4sOokSepO7-Gd1rxMSw5hV3JsrEJqdxuYEGprr4RtRwI"
+  },
+  {
+    "num": 34,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1980,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 35,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1982,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 36,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1984,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 37,
+    "nombre": "Liga Nacional de Futbol Argentino",
+    "año": 1984,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Copa_honor_mcba_trofeo.png"
+  },
+  {
+    "num": 38,
+    "nombre": "Liga Cordobesa de Futbol",
+    "año": 1985,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Liga_Cordobesa_de_F%C3%BAtbol.png/640px-Logo_Liga_Cordobesa_de_F%C3%BAtbol.png"
+  },
+  {
+    "num": 39,
+    "nombre": "Liga Regional de Futbol Argentino",
+    "año": 1985,
+    "categoria": "Regional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Campeonato_Regional_Sur_%28adjusted%29.png"
+  },
+  {
+    "num": 40,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1986,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 41,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1987,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 42,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1989,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 43,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1990,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 44,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1991,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 45,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1993,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 46,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1995,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 47,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1996,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 48,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1998,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 49,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 1999,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 50,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 2002,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 51,
+    "nombre": "Copa Libertadores",
+    "año": 2002,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png"
+  },
+  {
+    "num": 52,
+    "nombre": "Copa Intercontinental",
+    "año": 2002,
+    "categoria": "Mundial",
+    "img": "https://lh5.googleusercontent.com/proxy/QL68Rkazr5TvyO2RRxs2z_GxVcp8zFkv5ptmoWJUM87zY0M3QXFibst9gjyij3E-9PVVIwiUPSbx9URqOYw4sOokSepO7-Gd1rxMSw5hV3JsrEJqdxuYEGprr4RtRwI"
+  },
+  {
+    "num": 53,
+    "nombre": "Copa Libertadores",
+    "año": 2003,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png"
+  },
+  {
+    "num": 54,
+    "nombre": "Copa Intercontinental",
+    "año": 2003,
+    "categoria": "Mundial",
+    "img": "https://lh5.googleusercontent.com/proxy/QL68Rkazr5TvyO2RRxs2z_GxVcp8zFkv5ptmoWJUM87zY0M3QXFibst9gjyij3E-9PVVIwiUPSbx9URqOYw4sOokSepO7-Gd1rxMSw5hV3JsrEJqdxuYEGprr4RtRwI"
+  },
+  {
+    "num": 55,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 2005,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 56,
+    "nombre": "Copa Sudamericana",
+    "año": 2005,
+    "categoria": "Internacional",
+    "img": "https://i.pinimg.com/originals/ed/42/52/ed42524c924d1083d2569880671c520f.png"
+  },
+  {
+    "num": 57,
+    "nombre": "Copa Argentina",
+    "año": 2015,
+    "categoria": "Nacional",
+    "img": "https://milagroscopaargentina.home.blog/wp-content/uploads/2019/04/cropped-trofeo-copaargentina-1.png?w=200"
+  },
+  {
+    "num": 58,
+    "nombre": "Copa Argentina",
+    "año": 2017,
+    "categoria": "Nacional",
+    "img": "https://milagroscopaargentina.home.blog/wp-content/uploads/2019/04/cropped-trofeo-copaargentina-1.png?w=200"
+  },
+  {
+    "num": 59,
+    "nombre": "Copa Argentina",
+    "año": 2020,
+    "categoria": "Nacional",
+    "img": "https://milagroscopaargentina.home.blog/wp-content/uploads/2019/04/cropped-trofeo-copaargentina-1.png?w=200"
+  },
+  {
+    "num": 60,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 2020,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 61,
+    "nombre": "Copa Sudamericana",
+    "año": 2020,
+    "categoria": "Internacional",
+    "img": "https://i.pinimg.com/originals/ed/42/52/ed42524c924d1083d2569880671c520f.png"
+  },
+  {
+    "num": 62,
+    "nombre": "Copa Argentina",
+    "año": 2021,
+    "categoria": "Nacional",
+    "img": "https://milagroscopaargentina.home.blog/wp-content/uploads/2019/04/cropped-trofeo-copaargentina-1.png?w=200"
+  },
+  {
+    "num": 63,
+    "nombre": "Primera División del Futbol Argentino",
+    "año": 2021,
+    "categoria": "Nacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_lpf_afa.png"
+  },
+  {
+    "num": 64,
+    "nombre": "Copa Sudamericana",
+    "año": 2021,
+    "categoria": "Internacional",
+    "img": "https://i.pinimg.com/originals/ed/42/52/ed42524c924d1083d2569880671c520f.png"
+  },
+  {
+    "num": 65,
+    "nombre": "Recopa Sudamericana",
+    "año": 2021,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Recopa_Sudamericana.png"
+  },
+  {
+    "num": 66,
+    "nombre": "Copa Sudamericana",
+    "año": 2023,
+    "categoria": "Internacional",
+    "img": "https://i.pinimg.com/originals/ed/42/52/ed42524c924d1083d2569880671c520f.png"
+  },
+  {
+    "num": 67,
+    "nombre": "Recopa Sudamericana",
+    "año": 2023,
+    "categoria": "Internacional",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Recopa_Sudamericana.png"
+  },
+  {
+    "num": 68,
+    "nombre": "Copa Argentina",
+    "año": 2024,
+    "categoria": "Nacional",
+    "img": "https://milagroscopaargentina.home.blog/wp-content/uploads/2019/04/cropped-trofeo-copaargentina-1.png?w=200"
+  }
+]

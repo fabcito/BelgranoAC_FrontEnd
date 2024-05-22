@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belgrano AC | Web Oficial de Belgrano de Córdoba </title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="./assets/logofavicon.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/f4764f5c10.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div id="contenedorheader">
+            <div id="logoytexto">
+                <a href="index.html"> <img src="./assets/logo.png" alt="Logo Equipo" id="logo"> </a>
+                <p><span id="destacado">Belgrano</span><br>Athletic Club
+                </p>
+            </div>
+            <div id="sponsorsheader">
+                <a href="https://www.adidas.com.ar/?cm_mmc=AdieSEM_Google-_-Trademark-adidas-General-B-Exact-_-Trademark-adidas-X-General-_-adidas-_--_-dv:eCom-_-cm_mmca1=AR-_-cm_mmc2=&-_-ds_kid=43700041731365975-_-&-_-ds_agid=58700004850253847&af_reengagement_window=30d&is_retargeting=true&pid=googleadwords_temp&c=Trademark-adidas-General-B-Exact&af_channel=Search&gad_source=1&gclid=CjwKCAjw57exBhAsEiwAaIxaZt-tRqrommRoDIFwX5MLcVOugNibjbMuiZGHoXvB78UNZHmSKD2VgxoC73wQAvD_BwE&gclsrc=aw.ds"
+                    target="_blank"><img src="./assets/adidas.png" alt="Logo Adidas"></a>
+                <a href="https://www.lg.com/ar" target="_blank"><img src="./assets/lg.png" alt="Logo LG"></a>
+                <a href="https://www.coca-cola.com/ar/es" target="_blank"><img src="./assets/cocacola.png"
+                        alt="Logo Coca-Cola"></a>
+            </div>
+        </div>
+
+        <nav>
+            <div>
+                <a href="index.html">Inicio</a>
+                <a href="plantel.html">Plantel</a>
+                <a href="palmares.html">Palmarés</a>
+                <a href="historia.html">Historia</a>
+                <a href="estadio.html">Estadio</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="bannercontacto">
+            <img src="./assets/fotopalmares1.png" alt="Banner Palmares">
+        </div>
+        <p id="ubic"><a href="index.html">Inicio</a> / Palmarés</p>
+        <h1 class="titulo">Títulos de Belgrano AC</h1>
+        <div id="appp">
+            <h2 class="subt">Titulos Regionales</h2>
+            <div class="linea">
+
+                <div v-for="dato in datos">
+                    <div v-if="dato.categoria == 'Regional' " class="trofeo">
+                        <img width="100" :src="dato.img" :alt="dato.nombre">
+                        <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
+                    </div>
+                </div>
+            </div>
+            <h2 class="subt">Titulos Nacionales</h2>
+            <div class="linea">
+                <div v-for="dato in datos">
+                    <div v-if="dato.categoria == 'Nacional' " class="trofeo">
+                        <img width="100" :src="dato.img" :alt="dato.nombre">
+                        <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
+                    </div>
+                </div>
+            </div>
+            <h2 class="subt">Titulos Internacionales y Mundiales</h2>
+            <div class="linea">
+                <div v-for="dato in datos">
+                    <div v-if="dato.categoria == 'Internacional' || dato.categoria == 'Mundial' " class="trofeo">
+                        <img width="100" :src="dato.img" :alt="dato.nombre">
+                        <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <nav>
+            <div>
+                <p>NUESTRAS REDES</p>
+            </div>
+            <div id="redes">
+                <a href="https://www.youtube.com/@clubbelgranocordoba" target="_blank"><i
+                        class="fa-brands fa-youtube"></i></a>
+                <a href="https://www.instagram.com/clubatleticobelgrano/" target="_blank"><i
+                        class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.facebook.com/ClubBelgranoCordoba/?locale=es_LA" target="_blank"><i
+                        class="fa-brands fa-facebook"></i></a>
+                <a href="https://twitter.com/Belgrano" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                <a href="https://www.tiktok.com/@clubatleticobelgrano" target="_blank"><i
+                        class="fa-brands fa-tiktok"></i></a>
+            </div>
+            <div>
+                <a href="contacto.html" id="contactanos">
+                    <p>CONTACTANOS</p>
+                </a>
+            </div>
+
+        </nav>
+        <div id="disclaimers">
+            <div>
+                <p>©Copyright 2024 Belgrano Athletic Club</p>
+            </div>
+            <div>
+                <p>Desarollado por ©Alumnos del Grupo 8 (Comisión 24176)</p>
+            </div>
+        </div>
+    </footer>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/consumidortitulos.js"></script>
+</body>
+
+</html>

@@ -55,7 +55,7 @@
 
                 <div v-for="dato in datos">
                     <div v-if="dato.categoria == 'Regional' " class="trofeo">
-                        <img width="100" :src="dato.img" :alt="dato.nombre">
+                        <img :src="dato.img" :alt="dato.nombre">
                         <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
             <div class="linea">
                 <div v-for="dato in datos">
                     <div v-if="dato.categoria == 'Nacional' " class="trofeo">
-                        <img width="100" :src="dato.img" :alt="dato.nombre">
+                        <img :src="dato.img" :alt="dato.nombre">
                         <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
             <div class="linea">
                 <div v-for="dato in datos">
                     <div v-if="dato.categoria == 'Internacional' || dato.categoria == 'Mundial' " class="trofeo">
-                        <img width="100" :src="dato.img" :alt="dato.nombre">
+                        <img :src="dato.img" :alt="dato.nombre">
                         <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
                     </div>
                 </div>

@@ -14,7 +14,7 @@ Los logos de las redes sociales nos redirigen a las redes sociales reales del cl
 redirige a contacto.html.
 
 1) En index.html contamos con un carrousel con 3 noticias que ciclan, debajo de el tenemos un fixture y se nos muestra;
-    Los proximos 5 encuentros (contra que equipo, en que competencia en que fecha y que ronda).
+    Los proximos 5 encuentros (contra que equipo, en que competencia, en que fecha y que ronda).
     Los últimos 5 encuentros (idem + resultado del partido).
     La tabla del Torneo local + la tabla de goleadores del torneo pasado + la tabla de asistidores del torneo pasado.
     La tabla del grupo de la Copa Libertadores + la tabla de goleadores + la tabla de asistidores.

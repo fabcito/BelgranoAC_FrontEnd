@@ -39,6 +39,7 @@
                 <a href="palmares.html">Palmarés</a>
                 <a href="historia.html">Historia</a>
                 <a href="estadio.html">Estadio</a>
+                <a href="shop.html">Tienda</a>
             </div>
         </nav>
     </header>
@@ -55,7 +56,7 @@
                 <p class="expl">Completá el siguiente formulario especificando a que tema está dirigido.</p>
                 <form id="Registro" onsubmit="return validateForm()" method="post">
 
-                    <!-- Area -->
+                   
                     <div>
                         <select name="Area" id="Area" class="form-control">
                             <option value="0">Prensa</option>
@@ -69,17 +70,17 @@
                         </select>
                     </div>
 
-                    <!-- Nombre -->
+                    
                     <div><input type="text" name="Nombre" id="Nombre" placeholder="Nombre*" size="30" maxlength="30"
                              class="form-control">
                     </div>
 
-                    <!-- Apellido -->
+                    
                     <div><input type="text" name="Apellido" id="Apellido" placeholder="Apellido*" size="30"
                             maxlength="30"  class="form-control">
                     </div>
 
-                    <!-- Genero -->
+                    
                     <div id="radiogenero" class="form-control">
                         <span>Genero</span><br>
                         <input type="radio" name="Genero" id="Masculino" value="Masculino" checked>
@@ -90,7 +91,7 @@
                         <label for="NoEspecifica">Prefiero no decirlo</label><br>
                     </div>
 
-                    <!-- Provincia -->
+                    
                     <div>
                         <select name="Provincia" id="Provincia" class="form-control" >
                             <option value="0">Buenos Aires</option>
@@ -120,27 +121,27 @@
                         </select>
                     </div>
 
-                    <!-- Ciudad -->
+                    
                     <div><input type="text" name="Ciudad" id="Ciudad" placeholder="Ciudad" size="30" maxlength="30"
                             class="form-control">
                     </div>
 
-                    <!-- Direccion -->
+                    
                     <div><input type="text" name="Direccion" id="Direccion" placeholder="Direccion" size="30"
                             maxlength="30" class="form-control">
                     </div>
 
-                    <!-- Mail -->
+                    
                     <div><input type="email" name="Mail" id="Mail" placeholder="Correo electrónico*" size="30"
                             maxlength="40" class="form-control">
                     </div>
 
-                    <!-- Comentarios -->
+                    
                     <div><textarea name="Comentarios" id="Comentarios" cols="30" rows="10" placeholder="Comentarios*"
                              class="form-control"></textarea>
                     </div>
 
-                    <!-- Enviar -->
+                    
                     <div><input type="reset" value="Borrar" class="envbor"><input type="submit" value="Enviar"
                             class="envbor">
                     </div>

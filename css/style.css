@@ -104,6 +104,37 @@ header nav div a:active {
   padding: 3px;
 }
 
+#login {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#login a {
+  font-family: "Montserrat", "sans-serif";
+  font-weight: 700;
+  text-decoration: none;
+  padding: 3px;
+  margin-right: 10px;
+  background-color: rgb(122, 197, 240);
+  color: rgb(31, 31, 28);
+  border: 1px black solid;
+  border-radius: 4px;
+}
+
+#login a i {
+  color: black;
+  margin-right: 5px;
+}
+
+#login a:hover {
+  padding: 4px;
+  transition: 0.2s;
+}
+
+#login a:active {
+  background-color: white;
+}
+
 footer {
   border-top: 10px solid rgb(31, 31, 28);
 }
@@ -117,7 +148,7 @@ footer nav {
 }
 
 
-footer nav div p{
+footer nav div p {
   font-family: "Montserrat", "sans-serif";
   font-weight: 700;
   color: rgb(31, 31, 28);
@@ -140,7 +171,8 @@ footer nav div p{
   font-family: "Roboto", "Arial";
   flex-wrap: wrap;
 }
-#redes{
+
+#redes {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -158,7 +190,7 @@ footer nav div p{
   color: white;
 }
 
-#redes i:active{
+#redes i:active {
   color: silver;
 }
 
@@ -199,7 +231,7 @@ footer nav div p{
   color: rgb(122, 197, 240);
 }
 
-#contactos{
+#contactos {
   background-color: rgb(122, 197, 240);
   width: 55vw;
   padding: 2vw;
@@ -435,6 +467,7 @@ tr th {
   justify-content: center;
   flex-wrap: wrap;
 }
+
 #seccionesestadio img {
   height: 400px;
 }
@@ -447,6 +480,7 @@ tr th {
   margin-bottom: 10px;
   font-weight: 500;
 }
+
 #naranja {
   background-color: #f4a12d;
   border: solid 1px black;
@@ -454,6 +488,7 @@ tr th {
   font-weight: 700;
   border-radius: 5%;
 }
+
 #celeste {
   background-color: #8ed7f8;
   border: solid 1px black;
@@ -461,6 +496,7 @@ tr th {
   font-weight: 700;
   border-radius: 5%;
 }
+
 .azul {
   background-color: #9ba1c7;
   border: solid 1px black;
@@ -468,6 +504,7 @@ tr th {
   font-weight: 700;
   border-radius: 5%;
 }
+
 .verde {
   background-color: #a7ff00;
   border: solid 1px black;
@@ -475,6 +512,7 @@ tr th {
   font-weight: 700;
   border-radius: 5%;
 }
+
 #mapa {
   display: flex;
   justify-content: center;
@@ -488,15 +526,18 @@ tr th {
     font-weight: 800;
     font-size: 20px;
   }
+
   .subthist {
     padding-top: 7.5px;
     padding-left: 35px;
     font-family: "Montserrat", "sans-serif";
     font-size: 15px;
   }
+
   .infohist {
     margin-right: 15px;
   }
+
   .explhist {
     font-family: "Roboto", "Arial";
     font-size: 10px;
@@ -505,19 +546,22 @@ tr th {
     text-align: justify;
     margin-right: 10px;
   }
+
   .textoyfoto {
     display: flex;
     justify-content: space-between;
     align-items: start;
   }
+
   .picyepi {
     border: solid black 1px;
   }
-  
+
   .picyepi img {
     border-bottom: solid black 1px;
     height: 90px;
   }
+
   .picyepi p {
     font-family: "Montserrat", "sans-serif";
     text-align: center;
@@ -534,15 +578,18 @@ tr th {
     font-weight: 800;
     font-size: 26.6px;
   }
+
   .subthist {
     padding-top: 10px;
     padding-left: 46.6px;
     font-family: "Montserrat", "sans-serif";
     font-size: 20px;
   }
+
   .infohist {
     margin-right: 20px;
   }
+
   .explhist {
     font-family: "Roboto", "Arial";
     font-size: 13.3px;
@@ -551,19 +598,22 @@ tr th {
     text-align: justify;
     margin-right: 13.3px;
   }
+
   .textoyfoto {
     display: flex;
     justify-content: space-between;
     align-items: start;
   }
+
   .picyepi {
     border: solid black 1px;
   }
-  
+
   .picyepi img {
     border-bottom: solid black 1px;
     height: 120px;
   }
+
   .picyepi p {
     font-family: "Montserrat", "sans-serif";
     text-align: center;
@@ -580,15 +630,18 @@ tr th {
     font-weight: 800;
     font-size: 40px;
   }
+
   .subthist {
     padding-top: 15px;
     padding-left: 70px;
     font-family: "Montserrat", "sans-serif";
     font-size: 30px;
   }
+
   .infohist {
     margin-right: 30px;
   }
+
   .explhist {
     font-family: "Roboto", "Arial";
     font-size: 20px;
@@ -597,19 +650,22 @@ tr th {
     text-align: justify;
     margin-right: 20px;
   }
+
   .textoyfoto {
     display: flex;
     justify-content: space-between;
     align-items: start;
   }
+
   .picyepi {
     border: solid black 1px;
   }
-  
+
   .picyepi img {
     border-bottom: solid black 1px;
     height: 180px;
   }
+
   .picyepi p {
     font-family: "Montserrat", "sans-serif";
     text-align: center;
@@ -617,6 +673,7 @@ tr th {
     font-weight: 500;
   }
 }
+
 .subt {
   padding-top: 15px;
   padding-left: 70px;
@@ -640,6 +697,7 @@ tr th {
   -moz-box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
 }
+
 .jugador {
   display: flex;
   flex-direction: column;
@@ -656,8 +714,9 @@ tr th {
   -webkit-box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
-  
+
 }
+
 .jugador img {
   height: 150px;
   object-fit: cover;
@@ -667,15 +726,18 @@ tr th {
   background-position: center;
   background-repeat: no-repeat;
 }
+
 .nomynum {
   font-weight: 700;
   border: 1px solid black;
   background-color: rgb(122, 197, 240);
   padding: 2px;
 }
-.posypie{
+
+.posypie {
   margin-top: 2px;
 }
+
 .trofeo {
   display: flex;
   flex-direction: column;
@@ -692,8 +754,124 @@ tr th {
   -moz-box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
 }
+
 .trofeo img {
   height: 250px;
   object-fit: cover;
   width: auto;
+}
+
+#prods {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#caja {
+  margin: 2px;
+  -webkit-box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px -8px rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+#prods img {
+  height: 300px;
+}
+
+#nombre {
+  text-align: center;
+  font-family: "Roboto", "Arial";
+  font-weight: 700;
+  padding: 5px;
+}
+
+#precio {
+  text-align: right;
+  font-family: "Roboto", "Arial";
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+#info {
+  border-top: black 1px solid;
+}
+
+#info {
+  padding: 5px;
+}
+#info :nth-child(2){
+  text-align: right;
+  font-family: "Roboto", "Arial";
+}
+#talles {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#talles span {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto", "Arial";
+  border: black solid 1px;
+  border-radius: 20%;
+  padding: 2px;
+  margin: 4px;
+  background-color: rgb(122, 197, 240)
+}
+.botones{
+  margin: 5px;
+}
+.botones span{
+  margin: 5px;
+}
+.campo{
+  display: flex;
+  align-items: center; /* Alinea verticalmente */
+  justify-content: space-between; /* Espacio entre los elementos */
+  margin-bottom: 15px; /* Espacio entre cada campo */
+  font-weight: bold; /* Texto en negrita */
+  font-family: "Roboto", "Arial";
+}
+.campo label {
+  flex: 1; /* Ocupa todo el espacio disponible */
+  margin-right: 15px; /* Espacio entre el label y el input */
+  font-weight: bold; /* Texto en negrita */
+  font-family: "Roboto", "Arial";
+}
+.campo input {
+  flex: 2; /* Ocupa dos veces más espacio que el label */
+  padding: 8px; /* Espaciado interno */
+  border: 1px solid #ccc; /* Borde del input */
+  border-radius: 4px; /* Bordes redondeados */
+  width: 100%; /* Ancho completo */
+  box-sizing: border-box; /* Incluye el borde en el ancho total */
+  font-weight: bold; /* Texto en negrita */
+  font-family: "Roboto", "Arial";
+}
+.campo img {
+  margin-left: 10px; /* Espacio entre el input de imagen y la imagen */
+  border: 1px solid #ccc; /* Borde de la imagen */
+  border-radius: 4px; /* Bordes redondeados */
+}
+.formu{
+  background-color: rgba(240, 248, 255, 0.6);
+  margin:10px auto; 
+  width: 400px; 
+  padding: 
+  20px;
+}
+.fondoformu{
+  background-image: url(../assets/hinchadafondo.png);
+  background-size: cover; /* La imagen se expande para cubrir todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+#footerupd{
+  border-top: none;
 }

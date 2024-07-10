@@ -44,38 +44,30 @@
         </nav>
     </header>
 
-    <main>
+    <main id="app">
         <div class="bannercontacto">
-            <img src="./assets/fotopalmares1.png" alt="Banner Palmares">
+            <img src="./assets/fototienda1.png" alt="Banner Tienda">
         </div>
-        <p id="ubic"><a href="index.html">Inicio</a> / Palmarés</p>
-        <h1 class="titulo">Títulos de Belgrano AC</h1>
-        <div id="appp">
-            <h2 class="subt">Titulos Regionales</h2>
-            <div class="linea">
-
-                <div v-for="dato in datos">
-                    <div v-if="dato.categoria == 'Regional' " class="trofeo">
-                        <img :src="dato.img" :alt="dato.nombre">
-                        <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
-                    </div>
+        <p id="ubic"><a href="index.html">Inicio</a> / Tienda</p>
+        <div id="login">
+            <a href="./productos.html"><i class="fa-solid fa-right-to-bracket"></i>Iniciar Sesión</a>
+        </div>
+        <h1 class="titulo">Merch Oficial de Belgrano</h1>
+        <div id="prods">
+            <div v-for="dato in datos" :key="dato.id" id="caja">
+                <div>
+                    <p id="nombre">{{dato.nombre}}</p>
                 </div>
-            </div>
-            <h2 class="subt">Titulos Nacionales</h2>
-            <div class="linea">
-                <div v-for="dato in datos">
-                    <div v-if="dato.categoria == 'Nacional' " class="trofeo">
-                        <img :src="dato.img" :alt="dato.nombre">
-                        <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
-                    </div>
+                <div>
+                    <img :src="dato.imagen" :alt="dato.nombre">
                 </div>
-            </div>
-            <h2 class="subt">Titulos Internacionales y Mundiales</h2>
-            <div class="linea">
-                <div v-for="dato in datos">
-                    <div v-if="dato.categoria == 'Internacional' || dato.categoria == 'Mundial' " class="trofeo">
-                        <img :src="dato.img" :alt="dato.nombre">
-                        <p class="nomynum">{{ dato.nombre }} <br> ({{ dato.año }})</p>
+                <div id="info">
+                    <p id="precio">$ {{dato.precio}}</p>
+                    <p v-if="dato.target">{{dato.target}}</p>
+                    <div v-if="dato.talles">
+                        <div id="talles">
+                            <span v-for="talle in dato.talles.split(',').map(t => t.trim())" :key="talle" class="talle-item">{{ talle }}</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -115,7 +107,7 @@
         </div>
     </footer>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    <script src="./js/consumidortitulos.js"></script>
+    <script src="./js/consumidormerch.js"></script>
 </body>
 
 </html>
